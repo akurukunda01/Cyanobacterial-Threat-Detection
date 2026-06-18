@@ -3,8 +3,8 @@
 **Aadi Kurukunda**
 
 An end-to-end system for early detection of harmful cyanobacterial (blue-green algae) blooms in freshwater lakes using machine learning and a Raspberry Pi sensor array.
+<img width="4608" height="3456" alt="Cyanobacteria Detection Board (1)" src="https://github.com/user-attachments/assets/17960b3a-c0bc-438d-a97b-10862a66c5b6" />
 
-![Cyanobacterial bloom][(https://github.com/akurukunda01/Cyanobacterial-Threat-Detection/blob/main/assets/Cyanobacteria%20Detection%20Board%20(1).png)]
 
 ---
 
