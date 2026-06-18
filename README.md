@@ -4,7 +4,7 @@
 
 An end-to-end system for early detection of harmful cyanobacterial (blue-green algae) blooms in freshwater lakes using machine learning and a Raspberry Pi sensor array.
 
-![Cyanobacterial bloom](cyano_photo1.jpg)
+![Cyanobacterial bloom][Cyanobacteria Detection Board (1).png]
 
 ---
 
