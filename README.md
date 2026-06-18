@@ -4,7 +4,7 @@
 
 An end-to-end system for early detection of harmful cyanobacterial (blue-green algae) blooms in freshwater lakes using machine learning and a Raspberry Pi sensor array.
 
-![Cyanobacterial bloom][Cyanobacteria Detection Board (1).png]
+![Cyanobacterial bloom][(https://github.com/akurukunda01/Cyanobacterial-Threat-Detection/blob/main/assets/Cyanobacteria%20Detection%20Board%20(1).png)]
 
 ---
 
